@@ -45,6 +45,9 @@ To Install this project, follow the steps above:
 # Clone this repository
 $ git clone https://github.com/vicsamuel/django-deployment-app-test.git
 
+# Change directory to the correct folder
+$ cd django-deployment-app-test/learning_templates/
+
 # Create a virtual environment:
 $ python -m venv venv
 
