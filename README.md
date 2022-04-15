@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	My first deployed full-stack Django app!
+	My first deployed Django app!
 </h3>
 
 <p align="center">
