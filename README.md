@@ -24,7 +24,7 @@
 </p>
 
 ## About
-Developing my skills with Python by learning the Django framework. This project is basic, but has potential to become a full stack complete Web Application. This is not a completed application! It is a good base for building a website, which is what I may do with it in the future. This was built on a Linux machine and deployed in the PythonAnywhere virtual environment. This requires features to be installed via pip in the bash terminal. The features are Django 1.10.8, Pillow, and Argon2. These are security and file handling libraries that will help handle the flow of the site.
+Developed my skills with Python by learning the Django framework. This project is basic, but has potential to become a full stack complete Web Application. This is not a completed application! It is a good base for building a website, which is what I may do with it in the future. This was built on a Linux machine and deployed in the PythonAnywhere virtual environment. This requires features to be installed via pip in the bash terminal. The features are Django 1.10.8, Pillow, and Argon2. These are security and file handling libraries that will help handle the flow of the site.
 
 Website: http://v1c.pythonanywhere.com/
 
